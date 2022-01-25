@@ -1,6 +1,5 @@
 ## ![epicbedwargamejpg](https://user-images.githubusercontent.com/94430800/150917451-271d08fb-41de-4d0c-88ba-fb9f32cc4dde.jpg)
 ---------------------------------------
----------------------------------------
 #### [[ 📝 News ]](https://adfoc.us/70081781369517) [[ ©️ Credits ]](https://adfoc.us/70081781687282) [[ 🗑️ Mod Removal ]](https://github.com/JamStudiosCorporation/Dynamic-Client/wiki/Mod-Removal) [[ 🔧 Installation Guide ]](https://adfoc.us/70081781345625) [[📖 Repository ]](https://github.com/JamStudios/DynamicClient/wiki/Versions) [[ 📜 Versions Tracker ]](https://github.com/JamStudios/DynamicClient/wiki/Versions)
 
 ---------------------------------------
